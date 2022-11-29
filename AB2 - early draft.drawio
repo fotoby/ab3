@@ -1,4 +1,4 @@
-<mxfile modified="2022-11-29T18:43:23.455Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="fX3O8pooVG1tLQ3S6PzI" version="20.5.3" type="github" pages="10">
+<mxfile modified="2022-11-29T20:01:43.252Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="6Us9UoWqbhz_8Db37Hi8" version="20.5.3" type="github" pages="11">
   <diagram id="VjomX15xuYtD5MLgN6QB" name="Agenda">
     <mxGraphModel dx="1084" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,11 +43,25 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="25lp0CtglmJZi7T5T5F2" name="H-L Reqs.">
+  <diagram name="H-L Reqs." id="h9jbHCem-ycJ2uZCTOwV">
+    <mxGraphModel dx="1084" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="9m_CjEebkvtOnrXl-hu_-0" />
+        <mxCell id="9m_CjEebkvtOnrXl-hu_-1" parent="9m_CjEebkvtOnrXl-hu_-0" />
+        <mxCell id="AXn1gOnWAieejqgXZwlD-0" value="&lt;h1&gt;High-Level Requirements&lt;/h1&gt;&lt;p&gt;1. &lt;b&gt;Enable third party business analysts to generate and validate reports on AnyCompany data without risk of leakage of PII and customer sensitive data&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1.1 Third party BAs should not have access to PII and customer sensitive data: Required PII/CS datasets need to be processed to remove PII/CS data from text fields, many of which are free form text such as emails and call logs.&lt;/p&gt;&lt;p&gt;1.2. Third party BAs should not have access to analytics datastores that have PII or customer sensitive data&lt;/p&gt;&lt;p&gt;1.3 Access to the datasets for third party analysis needs to be controlled and monitored&lt;/p&gt;&lt;p&gt;1.4 The data anonymization process requires AI/ML. The solution needs to support the R&amp;amp;D of AI/ML solutions by AnyCompany&lt;/p&gt;&lt;p&gt;2. &lt;b&gt;Reduce on-going risk of leakage of PII and customer sensitive data&lt;/b&gt;&lt;/p&gt;&lt;p&gt;3. &lt;b&gt;Enable monetization by sharing of data sets/products&amp;nbsp;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;labelBorderColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="9m_CjEebkvtOnrXl-hu_-1">
+          <mxGeometry x="80" y="120" width="680" height="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="25lp0CtglmJZi7T5T5F2" name="Current State">
     <mxGraphModel dx="1084" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0dhcSubbFJwOVWDAAFgo-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;labelBorderColor=none;strokeColor=#666666;fontSize=18;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="970" y="431" width="126" height="126" as="geometry" />
+        </mxCell>
         <mxCell id="h1IbnTh46kwvZ-l_5gWV-3" value="Operational Systems" style="swimlane;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;startSize=40;" parent="1" vertex="1">
           <mxGeometry x="59" y="80" width="180" height="540" as="geometry" />
         </mxCell>
@@ -72,10 +86,10 @@
         <mxCell id="gpUl1PO_aZrQJFSE_oQn-15" value="&lt;font color=&quot;#9933ff&quot;&gt;pii&lt;/font&gt; &amp;amp; ops" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;labelBorderColor=none;strokeColor=default;fontSize=18;fontColor=#000000;" vertex="1" parent="h1IbnTh46kwvZ-l_5gWV-4">
           <mxGeometry x="35" y="160" width="115" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h1IbnTh46kwvZ-l_5gWV-5" value="In-House &lt;br&gt;BA / DS" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;strokeColor=default;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="h1IbnTh46kwvZ-l_5gWV-5" value="In-House &lt;br&gt;BA" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;strokeColor=default;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1020" y="210" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h1IbnTh46kwvZ-l_5gWV-9" value="3rd Party&lt;br&gt;BA / DS" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;strokeColor=default;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="h1IbnTh46kwvZ-l_5gWV-9" value="3rd Party&lt;br&gt;BA" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;strokeColor=default;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1020" y="447" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gpUl1PO_aZrQJFSE_oQn-7" value="Data Sets" style="swimlane;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;startSize=40;" vertex="1" parent="1">
@@ -97,45 +111,84 @@
           <mxGeometry x="760" y="80" width="180" height="540" as="geometry" />
         </mxCell>
         <mxCell id="gpUl1PO_aZrQJFSE_oQn-19" value="Business Analytics" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;strokeColor=default;fontSize=18;fontColor=#000000;" vertex="1" parent="gpUl1PO_aZrQJFSE_oQn-16">
-          <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gpUl1PO_aZrQJFSE_oQn-23" value="Business Analytics" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;strokeColor=default;fontSize=18;fontColor=#000000;" vertex="1" parent="gpUl1PO_aZrQJFSE_oQn-16">
-          <mxGeometry x="30" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gpUl1PO_aZrQJFSE_oQn-24" value="AI/ML" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;strokeColor=default;fontSize=18;fontColor=#000000;" vertex="1" parent="gpUl1PO_aZrQJFSE_oQn-16">
-          <mxGeometry x="30" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gpUl1PO_aZrQJFSE_oQn-25" value="AI/ML" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;strokeColor=default;fontSize=18;fontColor=#000000;" vertex="1" parent="gpUl1PO_aZrQJFSE_oQn-16">
-          <mxGeometry x="30" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gpUl1PO_aZrQJFSE_oQn-26" value="Primary&lt;br&gt;Warehouse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBorderColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="gpUl1PO_aZrQJFSE_oQn-26" value="Analytics&lt;br&gt;Warehouse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBorderColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="580" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Current State" id="h9jbHCem-ycJ2uZCTOwV">
+  <diagram name="Future State" id="HBv1KzzV3jWL5Cb1V32m">
     <mxGraphModel dx="1084" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
-        <mxCell id="9m_CjEebkvtOnrXl-hu_-0" />
-        <mxCell id="9m_CjEebkvtOnrXl-hu_-1" parent="9m_CjEebkvtOnrXl-hu_-0" />
-        <mxCell id="9m_CjEebkvtOnrXl-hu_-2" value="Operational Systems" style="swimlane;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;" parent="9m_CjEebkvtOnrXl-hu_-1" vertex="1">
-          <mxGeometry x="80" y="80" width="200" height="290" as="geometry" />
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-0" />
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-1" parent="hyJC9mIuy3ANaXY3VcQb-0" />
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-2" value="Operational Systems" style="swimlane;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;startSize=40;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-1">
+          <mxGeometry x="59" y="80" width="180" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="9m_CjEebkvtOnrXl-hu_-3" value="Analytics Systems" style="swimlane;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;" parent="9m_CjEebkvtOnrXl-hu_-1" vertex="1">
-          <mxGeometry x="480" y="80" width="200" height="150" as="geometry" />
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-3" value="Interactive&lt;br&gt;Call Center" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-2">
+          <mxGeometry x="21" y="80" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9m_CjEebkvtOnrXl-hu_-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;strokeColor=default;fontSize=18;" parent="9m_CjEebkvtOnrXl-hu_-1" vertex="1">
-          <mxGeometry x="770" y="120" width="30" height="60" as="geometry" />
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-4" value="Email &lt;br&gt;Support" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-2">
+          <mxGeometry x="21" y="180" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9m_CjEebkvtOnrXl-hu_-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;strokeColor=default;fontSize=18;" parent="9m_CjEebkvtOnrXl-hu_-1" vertex="1">
-          <mxGeometry x="770" y="290" width="30" height="60" as="geometry" />
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-5" value="Text &amp;amp; Chatbot&amp;nbsp;&lt;br&gt;Support" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-2">
+          <mxGeometry x="21" y="280" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9m_CjEebkvtOnrXl-hu_-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;strokeColor=default;fontSize=18;" parent="9m_CjEebkvtOnrXl-hu_-1" vertex="1">
-          <mxGeometry x="770" y="430" width="30" height="60" as="geometry" />
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-6" value="..." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-2">
+          <mxGeometry x="23" y="426" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9m_CjEebkvtOnrXl-hu_-7" value="Analytics Systems" style="swimlane;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;" parent="9m_CjEebkvtOnrXl-hu_-1" vertex="1">
-          <mxGeometry x="480" y="310" width="200" height="150" as="geometry" />
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-7" value="Analytics Data Stores &amp;amp; Systems" style="swimlane;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;startSize=40;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-1">
+          <mxGeometry x="520" y="80" width="180" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="0Jkv3jb7glhRKEIvXEkH-0" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;shadow=0;strokeColor=default;fontSize=18;fontColor=#9933FF;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-7">
+          <mxGeometry x="20" y="70" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0Jkv3jb7glhRKEIvXEkH-1" value="Analytics&lt;br&gt;Lake/House" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBorderColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-7">
+          <mxGeometry x="60" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Jkv3jb7glhRKEIvXEkH-2" value="&lt;font color=&quot;#9933ff&quot;&gt;&lt;span style=&quot;caret-color: rgb(153, 51, 255);&quot;&gt;anon&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&amp;amp; ops" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;labelBorderColor=none;strokeColor=default;fontSize=18;fontColor=#000000;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-7">
+          <mxGeometry x="32.5" y="108" width="115" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="O4PE7a0Fi9K-1KhrLcxD-1" value="AI/ML&lt;br&gt;Tools &amp;amp; Infra." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-7">
+          <mxGeometry x="20" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4PE7a0Fi9K-1KhrLcxD-2" value="Data Monetization Tools" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-7">
+          <mxGeometry x="20" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-10" value="In-House &lt;br&gt;BA / DS" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;strokeColor=default;fontSize=18;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-1">
+          <mxGeometry x="1020" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-11" value="3rd Party&lt;br&gt;BA / DS" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;strokeColor=default;fontSize=18;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-1">
+          <mxGeometry x="1020" y="447" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-12" value="Data Sets" style="swimlane;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;startSize=40;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-1">
+          <mxGeometry x="300" y="80" width="180" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-13" value="&lt;font color=&quot;#9933ff&quot;&gt;Call Logs&lt;/font&gt; &amp;amp; Operations Data" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-12">
+          <mxGeometry x="18" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-14" value="&lt;font color=&quot;#9933ff&quot;&gt;Emails&lt;/font&gt; &amp;amp; Operations Data" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-12">
+          <mxGeometry x="18" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-15" value="&lt;font color=&quot;#9933ff&quot;&gt;Texts&lt;/font&gt; &amp;amp;&lt;br&gt;Operations Data" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-12">
+          <mxGeometry x="18" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-16" value="&lt;font color=&quot;#9933ff&quot;&gt;PII/Sensitive&lt;/font&gt; &amp;amp;&lt;br&gt;Operations Data" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-12">
+          <mxGeometry x="20" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-17" value="Analytics &lt;br&gt;Processes" style="swimlane;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;fontSize=18;startSize=40;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-1">
+          <mxGeometry x="760" y="80" width="180" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-19" value="Business Analytics" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;strokeColor=default;fontSize=18;fontColor=#000000;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-17">
+          <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyJC9mIuy3ANaXY3VcQb-21" value="AI/ML" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;strokeColor=default;fontSize=18;fontColor=#000000;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-17">
+          <mxGeometry x="30" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4PE7a0Fi9K-1KhrLcxD-0" value="Monetization" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;strokeColor=default;fontSize=18;fontColor=#000000;" vertex="1" parent="hyJC9mIuy3ANaXY3VcQb-17">
+          <mxGeometry x="30" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
