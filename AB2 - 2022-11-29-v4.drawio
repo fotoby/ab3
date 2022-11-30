@@ -1,4 +1,4 @@
-<mxfile modified="2022-11-30T04:13:49.206Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="2uCnLS-ubRQ-9ws9VgyC" version="20.5.3" type="github" pages="15">
+<mxfile modified="2022-11-30T04:45:30.596Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="q3vzdKVk5BktVnOfGjPu" version="20.5.3" type="github" pages="15">
   <diagram id="VjomX15xuYtD5MLgN6QB" name="Agenda">
     <mxGraphModel dx="975" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="H-L Reqs." id="h9jbHCem-ycJ2uZCTOwV">
-    <mxGraphModel dx="1215" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="9m_CjEebkvtOnrXl-hu_-0" />
         <mxCell id="9m_CjEebkvtOnrXl-hu_-1" parent="9m_CjEebkvtOnrXl-hu_-0" />
@@ -55,7 +55,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="25lp0CtglmJZi7T5T5F2" name="Current State">
-    <mxGraphModel dx="1215" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,7 +117,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Future State" id="HBv1KzzV3jWL5Cb1V32m">
-    <mxGraphModel dx="1215" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hyJC9mIuy3ANaXY3VcQb-0" />
         <mxCell id="hyJC9mIuy3ANaXY3VcQb-1" parent="hyJC9mIuy3ANaXY3VcQb-0" />
@@ -194,7 +194,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fh6pX0H431qZWD7UBe4o" name="Functional Reqs.">
-    <mxGraphModel dx="1215" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,7 +322,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Non-Func. Reqs." id="h94NcZVnJJBcJJlRhdZV">
-    <mxGraphModel dx="1215" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HlYiuG5ErMYe60urcanL-0" />
         <mxCell id="HlYiuG5ErMYe60urcanL-1" parent="HlYiuG5ErMYe60urcanL-0" />
@@ -450,7 +450,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="zz Non Func. Reqs." id="yX5xpPKX2TFeQkWrZxYQ">
-    <mxGraphModel dx="1215" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hKUapLD3Pjbxjj1mFjU8-0" />
         <mxCell id="hKUapLD3Pjbxjj1mFjU8-1" parent="hKUapLD3Pjbxjj1mFjU8-0" />
@@ -518,7 +518,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Concept. Arch." id="U5oCiPYMo4C-_qP5Ro2j">
-    <mxGraphModel dx="1620" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1300" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vECQrhH6S6L_jKQsrYaC-0" />
         <mxCell id="vECQrhH6S6L_jKQsrYaC-1" parent="vECQrhH6S6L_jKQsrYaC-0" />
@@ -977,14 +977,6 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Sl1QYkkVfb76B0ZFffT5" name="Cloud Arch.">
-    <mxGraphModel dx="975" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="BXo77lAgG9FU17EozOgL" name="Meeting Notes">
     <mxGraphModel dx="975" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -994,10 +986,10 @@
           <mxGeometry x="770" y="20" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5N7ZbJTw_4b1dOMRKxE2-3" value="&lt;h1&gt;Parking Lot / Follow-up&lt;/h1&gt;&lt;h1&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Lorem ipsum ...&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Lorem ipsum ...&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="330" height="120" as="geometry" />
+          <mxGeometry x="40" y="120" width="780" height="200" as="geometry" />
         </mxCell>
         <mxCell id="livCL_kwqiCR4SOGYSZk-3" value="&lt;h1&gt;Notes: Requirements, Objectives, etc,&lt;/h1&gt;&lt;h1&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Lorem ipsum ...&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Lorem ipsum ...&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="320" width="330" height="240" as="geometry" />
+          <mxGeometry x="40" y="370" width="870" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1174,6 +1166,14 @@
         <mxCell id="lc0jFfOBRCijilecLifl-0" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="VFhjv_6CdZRBxOUoINTJ-1">
           <mxGeometry x="21.5" y="320" width="78" height="78" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Sl1QYkkVfb76B0ZFffT5" name="Cloud Arch.">
+    <mxGraphModel dx="975" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
