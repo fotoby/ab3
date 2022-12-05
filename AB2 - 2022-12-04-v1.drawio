@@ -1,67 +1,67 @@
-<mxfile modified="2022-12-05T00:54:34.105Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QwAB8f_k0yd6vCWdvyn4" version="20.6.0" type="github" pages="6">
+<mxfile modified="2022-12-05T01:03:17.248Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sQ594N3SWZkwk570Je1l" version="20.6.0" type="github" pages="6">
   <diagram id="VjomX15xuYtD5MLgN6QB" name="Agenda">
-    <mxGraphModel dx="1388" dy="893" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RGwa3ZNCP71L5T_SxQl2-1" value="Agenda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="126" y="128" width="60" height="30" as="geometry" />
+          <mxGeometry x="63" y="128" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGwa3ZNCP71L5T_SxQl2-2" value="&lt;u&gt;Meeting Kick-off&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="120" y="220" width="480" height="30" as="geometry" />
+          <mxGeometry x="57" y="220" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGwa3ZNCP71L5T_SxQl2-6" value="&lt;u&gt;Requirements &amp;amp; High-Level Architecture&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="120" y="280" width="480" height="30" as="geometry" />
+          <mxGeometry x="57" y="280" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGwa3ZNCP71L5T_SxQl2-7" value="&lt;u&gt;Solutions Architecture&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="120" y="460" width="480" height="30" as="geometry" />
+          <mxGeometry x="57" y="460" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGwa3ZNCP71L5T_SxQl2-8" value="&lt;u&gt;Summary &amp;amp; Next Steps&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="120" y="597" width="480" height="30" as="geometry" />
+          <mxGeometry x="57" y="597" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGwa3ZNCP71L5T_SxQl2-9" value="Conceptual architecture" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="160" y="500" width="480" height="30" as="geometry" />
+          <mxGeometry x="97" y="500" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGwa3ZNCP71L5T_SxQl2-10" value="Solutions architecture (outline)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="160" y="540" width="480" height="30" as="geometry" />
+          <mxGeometry x="97" y="540" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGwa3ZNCP71L5T_SxQl2-11" value="High-level requirements" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="160" y="320" width="480" height="30" as="geometry" />
+          <mxGeometry x="97" y="320" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGwa3ZNCP71L5T_SxQl2-12" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration: none; float: none; display: inline !important;&quot;&gt;Future state&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="160" y="400" width="480" height="30" as="geometry" />
+          <mxGeometry x="97" y="400" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dw6q_YZNpKW3-IFjIILA-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;2022-12-05&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;fontSize=24;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="724" y="148" width="143" height="30" as="geometry" />
+          <mxGeometry x="569" y="148" width="143" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dw6q_YZNpKW3-IFjIILA-2" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;AnyCompany/AWS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="96" y="54" width="329" height="29" as="geometry" />
+          <mxGeometry x="33" y="54" width="329" height="29" as="geometry" />
         </mxCell>
         <mxCell id="uuZfknn4TFi3_fV7vghA-1" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration: none; float: none; display: inline !important;&quot;&gt;Current state&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="160" y="360" width="480" height="30" as="geometry" />
+          <mxGeometry x="97" y="360" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n0qJ1ygji1D-xMga5_Ut-1" value="&lt;h1&gt;Toby Fotherby&lt;/h1&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Sr. AI/ML Specialist Solutions Architect&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;fotherby@amazon.com&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="721" y="23" width="281" height="120" as="geometry" />
+          <mxGeometry x="566" y="23" width="281" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LAZuoe24PW7PGoXKEOxe-1" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Meeting Notes&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Lorem ipsum ...&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Lorem ipsum ...&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="718.5" y="232" width="480" height="587" as="geometry" />
+          <mxGeometry x="563.5" y="232" width="480" height="587" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="H-L Reqs." id="h9jbHCem-ycJ2uZCTOwV">
-    <mxGraphModel dx="833" dy="536" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="883" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="9m_CjEebkvtOnrXl-hu_-0" />
         <mxCell id="9m_CjEebkvtOnrXl-hu_-1" parent="9m_CjEebkvtOnrXl-hu_-0" />
-        <mxCell id="AXn1gOnWAieejqgXZwlD-0" value="&lt;h1&gt;High-Level Requirements&lt;/h1&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Enable third party business analysts to generate and validate reports on AnyCompany data without risk of leakage of PII and customer sensitive data&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;Facilitate the transition of the in-house team to use PII scrubbed data, with an option to revert the scrubbed data to the original for debugging and specific analytics&lt;br&gt;&lt;br&gt;Empower AnyCompany to develop its own AI/ML solutions for data protection and operational improvements&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;labelBorderColor=none;fontSize=18;fontColor=#000000;" parent="9m_CjEebkvtOnrXl-hu_-1" vertex="1">
+        <mxCell id="AXn1gOnWAieejqgXZwlD-0" value="&lt;h1&gt;High-Level Requirements&lt;/h1&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Enable third party business analysts to generate and validate reports on AnyCompany data without risk of leakage of PII or customer sensitive data&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;Facilitate the transition of the in-house team to use PII scrubbed data, with an option to revert the scrubbed data to the original, for debugging and specific analytics&lt;br&gt;&lt;br&gt;Empower AnyCompany to develop its own AI/ML solutions for data protection and operational improvements&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;labelBorderColor=none;fontSize=18;fontColor=#000000;" parent="9m_CjEebkvtOnrXl-hu_-1" vertex="1">
           <mxGeometry x="70" y="90" width="680" height="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="25lp0CtglmJZi7T5T5F2" name="Current State">
-    <mxGraphModel dx="1157" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1177" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
